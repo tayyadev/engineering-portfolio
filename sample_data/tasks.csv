@@ -1,0 +1,5 @@
+task_id,team,status,hours
+T-1001,platform,done,4.5
+T-1002,quality,in_progress,2.0
+T-1003,platform,backlog,0
+T-1004,frontend,done,1.75
